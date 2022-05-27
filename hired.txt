@@ -1,2 +1,6 @@
 The Lord is good
 Welcome to Acada Learning
+echo "WElCOME"
+echo This is Devops
+echo 'God is GOOD'
+cal

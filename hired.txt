@@ -5,3 +5,4 @@ echo This is Devops
 echo 'God is GOOD'
 Adelani has good general knowledge which he enjoys sharing with the rest of the class. He enjoys lessons related to understanding the world and has an impressive information retrieval skill.
 cal
+I am adding a new line to the file

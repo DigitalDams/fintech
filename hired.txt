@@ -1,10 +1,10 @@
-The Lord is good and kind
+iThe Lord is good and kind
 Welcome to Acada Learning
 echo "WElCOME"
 echo This is Devops
 echo 'God is GOOD'
 Adelani is a phenomenal student and he enjoys sharing with the rest of the class. He enjoys lessons related to understanding the world and has a good information retrieval skill.
 cal
-I am adding a new line to the file
+Acada Learning
 
 Today would be awesome! I feel it
